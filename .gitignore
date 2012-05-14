@@ -1,0 +1,10 @@
+# Directories created by Eclipse / STS
+.metadata
+.settings
+bin
+target
+gen
+
+# Temporary files by Vim
+*.swp
+*~
